@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a0b6iatxf9vlc6ba/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ahj-anim/branch/main)
